@@ -10,3 +10,6 @@
 - 2019/2/4
 	- 新年快乐 :star2:  :stuck_out_tongue_closed_eyes: :star2:
 	- 更新前程无忧部分 
+- 2019/2/5
+	- 更新智联招聘部分
+	
